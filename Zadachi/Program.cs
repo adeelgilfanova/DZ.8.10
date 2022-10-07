@@ -149,7 +149,7 @@ namespace Zadachi
             Console.WriteLine();
             Console.ReadKey();
 
-            Console.WriteLine("Задание2");
+            Console.WriteLine("\nЗадание2");
             int[] massOfCount = new int[20];
             Random rand = new Random();
             for (int u = 0; u < massOfCount.Length; u++)
@@ -175,7 +175,7 @@ namespace Zadachi
             Console.WriteLine("Переделанный массив: " + mas2);
             Console.ReadKey();
 
-            Console.WriteLine("Задание3 Сортировка массива");
+            Console.WriteLine("\nЗадание3 Сортировка массива");
             Console.WriteLine("Введите количество элементов массива:");
             int N = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите числа для сортировки:");
@@ -192,7 +192,7 @@ namespace Zadachi
             }
             Console.ReadLine();
 
-            Console.WriteLine("Задание4 Массивчик");
+            Console.WriteLine("\nЗадание4 Массивчик");
             Console.WriteLine("Введите количество элементов массива:");
             int Q = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите числа для массива:");
@@ -207,7 +207,7 @@ namespace Zadachi
             Console.WriteLine("Сумма элементов массива = " + Sum(masOfNumb));
             Console.ReadKey();
 
-            Console.WriteLine("Задание5");
+            Console.WriteLine("\nЗадание5");
             Console.WriteLine("Введите число либо завершите программу: ");
             int chisloo = int.Parse(Console.ReadLine());
             if (chisloo == 0)
