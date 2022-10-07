@@ -1,0 +1,15 @@
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/bin/Debug/net6.0/Zadachi
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/bin/Debug/net6.0/Zadachi.deps.json
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/bin/Debug/net6.0/Zadachi.runtimeconfig.json
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/bin/Debug/net6.0/Zadachi.dll
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/bin/Debug/net6.0/Zadachi.pdb
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/Zadachi.csproj.AssemblyReference.cache
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/Zadachi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/Zadachi.AssemblyInfoInputs.cache
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/Zadachi.AssemblyInfo.cs
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/Zadachi.csproj.CoreCompileInputs.cache
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/Zadachi.dll
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/refint/Zadachi.dll
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/Zadachi.pdb
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/Zadachi.genruntimeconfig.cache
+/Users/adelagilfanova/Documents/Программирование/DZ.8.10/Zadachi/obj/Debug/net6.0/ref/Zadachi.dll
